@@ -4,7 +4,7 @@ Don't mess up with your bins! What goes &amp; what doesn't on each container.
 ## Description
 Show the user, in an attractive yet simple way, how to segregate.
 
-###Web site created to practice HTML5 and CSS (basic level)
+### Web site created to practice HTML5 and CSS (basic level)
 NOT RESPONSIVE.
 Language: Polish.
 #### What was practiced:
@@ -17,5 +17,5 @@ Language: Polish.
 * Icons importation
 * Form
 
-##### Reference
+#### Reference
 Content of the web copied from:(https://naszesmieci.mos.gov.pl/jak-segregowac)
