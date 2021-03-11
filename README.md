@@ -7,7 +7,7 @@ Show the user, in an attractive yet simple way, how to segregate.
 ### Web site created to practice HTML5 and CSS (basic level)
 NOT RESPONSIVE.
 Language: Polish.
-#### What was practiced:
+### What was practiced:
 * Layouts centered 
 * Paddings vs margins
 * Background image
@@ -17,5 +17,5 @@ Language: Polish.
 * Icons importation
 * Form
 
-#### Reference
+## Reference
 Content of the web copied from:(https://naszesmieci.mos.gov.pl/jak-segregowac)
