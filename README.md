@@ -18,4 +18,4 @@ Language: Polish.
 * Form
 
 ## Reference
-Content of the web copied from:(https://naszesmieci.mos.gov.pl/jak-segregowac)
+Content of the web copied from https://naszesmieci.mos.gov.pl/jak-segregowac
