@@ -1,0 +1,226 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial, Helvetica, sans-serif;
+  margin: 0px 200px;
+  color: rgb(60, 60, 60);
+}
+
+header {
+  text-align: center;
+  background-image: url("images/imageheadergrey3.jpg");
+  background-size: cover;
+  padding: 80px 0px;
+}
+
+footer {
+  font-size: 13px;
+  text-align: center;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  background-color: rgb(60, 60, 60);
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(240, 240, 240);
+    text-align: center;
+    padding: 10px 20px;
+    border-right: 2px solid rgb(240, 240, 240);
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(240, 240, 240);
+  color: rgb(60, 60, 60)
+}
+
+.active {
+  background-color: rgb(240, 240, 240);
+  color: rgb(60, 60, 60);
+}
+
+li a.metale:hover {
+  background-color: rgb(240, 165, 0);
+}
+
+li a.metaleactive:hover {
+  background-color: rgb(240, 165, 0);
+  color: rgb(60, 60, 60);
+}
+
+li a.metaleactive {
+  background-color: rgb(240, 165, 0);
+  color: rgb(60, 60, 60);
+}
+
+li a.papier:hover {
+  background-color: rgb(0, 174, 239);
+}
+
+li a.papieractive:hover {
+  background-color: rgb(0, 174, 239);
+  color: rgb(60, 60, 60);
+}
+
+li a.papieractive {
+  background-color: rgb(0, 174, 239);
+  color: rgb(60, 60, 60);
+}
+
+li a.szklo:hover {
+  background-color: rgb(133, 188, 60);
+}
+
+li a.szkloactive:hover {
+  background-color: rgb(133, 188, 60);
+  color: rgb(60, 60, 60);
+}
+
+li a.szkloactive {
+  background-color: rgb(133, 188, 60);
+  color: rgb(60, 60, 60);
+}
+
+li a.bio:hover {
+  background-color: rgb(200, 110, 54);
+}
+
+li a.bioactive:hover {
+  background-color: rgb(200, 110, 54);
+  color: rgb(60, 60, 60);
+}
+
+li a.bioactive {
+  background-color: rgb(200, 110, 54);
+  color: rgb(60, 60, 60);
+}
+
+li a.zmieszane:hover {
+  background-color: rgb(97, 110, 133);
+}
+
+li a.zmieszaneactive:hover {
+  background-color: rgb(97, 110, 133);
+  color: rgb(60, 60, 60);
+}
+
+li a.zmieszaneactive {
+  background-color: rgb(97, 110, 133);
+  color: rgb(60, 60, 60);
+}
+
+article {
+  box-sizing: border-box;
+  padding: 50px 50px 70px;
+}
+
+div.home {
+  margin: 0px 22.5%;
+  line-height: 1.8;
+}
+
+a.extlinks {
+  text-decoration: none;
+}
+
+a.extlinks:link, a.extlinks:visited {
+  color: rgb(60, 60, 60);
+}
+
+a.extlinks:hover {
+  background-color: rgb(240, 240, 240);
+  color: black;
+}
+
+a.extlinks:active {
+  color: rgb(60, 60, 60);
+}
+
+table {
+  border-collapse: collapse;
+  width: 55%;
+  margin: 0px 22.5%;
+}
+
+th {
+  width: 50%;
+  padding: 20px 0px;
+}
+
+td {
+  width: 50%;
+  padding: 10px 0px 10px 50px;
+  vertical-align: top;
+}
+
+td.met:hover {
+  background-color: rgb(240, 165, 0, 0.1);
+}
+
+td.pap:hover {
+  background-color: rgb(0, 174, 239, 0.1);
+}
+
+td.szk:hover {
+  background-color: rgb(133, 188, 60, 0.1);
+}
+
+td.bio:hover {
+  background-color: rgb(200, 110, 54, 0.1);
+}
+
+p.zmi {
+  margin: 0px 22.5%;
+  text-align: left;
+  line-height: 1.8;
+}
+
+p.zmi:hover {
+  background-color: rgb(97, 110, 133, 0.1);
+}
+
+td::first-letter {
+  text-transform: uppercase;
+}
+
+form.contact {
+  padding: 20px;
+  margin: 0px 22.5%;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(240, 240, 240);
+  background-color: rgb(240, 240, 240);
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type=submit] {
+  background-color: rgb(60, 60, 60);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: rgb(240, 240, 240);
+  color: rgb(60, 60, 60);
+}
