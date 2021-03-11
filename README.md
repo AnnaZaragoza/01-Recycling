@@ -2,10 +2,10 @@
 Don't mess up with your bins! What goes &amp; what doesn't on each container. 
 
 ## Description
-Show the user, in an attractive yet simple way, how to segregate.
+Web site that shows, in an attractive yet simple way, how to segregate.
 
-### Web site created to practice HTML5 and CSS (basic level)
-NOT RESPONSIVE.
+### It has been created to practice HTML5 and CSS (basic level)
+NOT RESPONSIVE / 
 Language: Polish.
 ### What was practiced:
 * Layouts centered 
