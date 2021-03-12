@@ -3,6 +3,7 @@ Web site that shows, in an attractive yet simple way, how to segregate.
 
 ![alt text](https://github.com/AnnaZaragoza/Recycling/blob/main/github/screenshot.jpg?raw=true)
 
+
 ### It has been created to practice HTML5 and CSS (basic level)
 NOT RESPONSIVE / 
 Language: Polish.
