@@ -5,10 +5,10 @@ Web site that shows, in an attractive yet simple way, how to segregate.
 
 
 ### It has been created to practice HTML5 and CSS (basic level)
-NOT RESPONSIVE / 
-Language: Polish.
+* NOT RESPONSIVE  
+* Language: Polish
 ### What was practiced:
-* Layouts centered 
+* Centered layouts 
 * Paddings vs margins
 * Background image
 * Floated menu bar
