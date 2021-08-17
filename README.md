@@ -8,7 +8,7 @@ Web site that shows, in an attractive yet simple way, how to segregate.
 * NOT RESPONSIVE  
 * Language: Polish
 #### What was practiced:
-* Centered layouts 
+* Centered layouts (positioning relative, absolute, float)
 * Paddings vs margins
 * Background image
 * Floated menu bar
