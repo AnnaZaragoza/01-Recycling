@@ -16,6 +16,7 @@ Web site that shows, in an attractive yet simple way, how to segregate.
 * Stylished and interactive tables
 * Icons importation
 * Form
+#### Check the site here: [Recycling Bins](https://recyclingbins.netlify.app/)
 
 ## Reference
 Content of the web copied from https://naszesmieci.mos.gov.pl/jak-segregowac
